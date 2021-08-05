@@ -8,7 +8,7 @@ de rotina de estudo e muito mais!
 
 # Contribua com esse repositório
 
-Se você assistiu alguma das intrevistas,
+Se você já assistiu alguma das intrevistas,
 ou tem interesse em ver, deixe a sua 
 contribuição destacando o que você achou
 interessante! ;-) 
