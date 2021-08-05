@@ -11,3 +11,19 @@ jornada da RocketSeat, ou seja, que
 participaram de qualquer um de seus
 bootcamps.
 
+<h2>Como foi o início de sua jornada?</h2>
+
+<h3>Contato com a tecnologia desde cedo!</h3>
+
+Quando criança a Laura e seu irmão não 
+podiam brincar na rua, então o 
+lazer dela era mecher em um computador. 
+
+A Laura tinha 1 hora por 
+dia para mecher, e nesse tempo ela
+aproveitava ao máximo para explorar
+coisas no computador. Por ser 
+competitiva em relação ao seu irmão,
+ela se sentia incentivada a 
+aprender mais.
+
